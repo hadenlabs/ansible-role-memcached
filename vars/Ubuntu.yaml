@@ -1,0 +1,6 @@
+---
+# vars file for hadenlabs.memcached (Ubuntu specific)
+
+# _memcached_pip_packges:
+#   name: pip
+#   version:

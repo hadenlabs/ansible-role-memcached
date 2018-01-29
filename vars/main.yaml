@@ -1,0 +1,13 @@
+---
+
+# vars file for memcached
+
+_root_group: root
+__memcached_user: "memcached"
+_memcached_package_name: "memcached"
+_memcached_packages:
+  - software-properties-common
+  - python-software-properties
+  - wget
+  - curl
+  - libmemcached-dev
